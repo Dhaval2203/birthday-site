@@ -89,7 +89,7 @@ export default function BirthdayCelebration() {
 						>
 							<div className="text-center">
 								<p className="text-purple-700 mb-2">
-									Just wanted to remind you—you're my favorite person. My days are better, smiles are wider, and life is sweeter because of you.
+									Happy Birthday to my sweet sister! You’re like sunshine on a rainy day and a smile when I’m sad. I may not say it often, but I feel lucky to be your sibling. May your day be full of cakes, laughter, and lots of happy memories.
 								</p>
 								<p className="text-pink-600 font-medium">I hope your birthday is full of love, magic, and everything that makes you smile 💖</p>
 								{/* <div className="flex justify-center">
@@ -119,7 +119,7 @@ export default function BirthdayCelebration() {
 			>
 				<div className="text-center">
 					<p className="text-lg text-purple-700 mb-4">
-						May every wish you make today come true. You deserve the world, and I’ll always be here to remind you of that.
+						May every wish you make today come true. Dwarikadhis will always bless you. You are my everything, and I am so grateful for you.
 					</p>
 					<div className="flex justify-center items-center gap-2">
 						<p className="text-pink-600 font-medium">Let’s always stay like this... together, forever 🫶</p>

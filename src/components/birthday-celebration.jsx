@@ -67,7 +67,7 @@ export default function BirthdayCelebration() {
 										repeat: Number.POSITIVE_INFINITY,
 									}}
 								>
-									<Gift className="w-14 h-14 text-white" />
+									<Gift className="w-14 h-20 text-white" />
 								</motion.div>
 							</div>
 						</div>
@@ -76,7 +76,7 @@ export default function BirthdayCelebration() {
 					{/* Card content */}
 					<AnimatePresence>
 						{isCardOpen && <motion.div
-							className="absolute inset-0 bg-white max-[350px]:-top-6 max-[350px]:min-h-[275px] rounded-3xl p-4 shadow-xl shadow-rose-100 flex flex-col items-center justify-center"
+							className="absolute inset-0 bg-white max-[350px]:-top-6 max-[500px]:min-h-[275px] rounded-3xl p-4 shadow-xl shadow-rose-100 flex flex-col items-center justify-center"
 							initial={{ rotate: 2, rotateX: -90, opacity: 0 }}
 							animate={{
 								rotate: isCardOpen ? 0 : 2,
